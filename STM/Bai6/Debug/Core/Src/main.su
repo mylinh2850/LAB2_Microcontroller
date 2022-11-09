@@ -1,0 +1,10 @@
+../Core/Src/main.c:58:6:display7SEG	16	static
+../Core/Src/main.c:153:6:updateClockBuffer	4	static
+../Core/Src/main.c:163:6:setTimer0	16	static
+../Core/Src/main.c:167:6:timer_run	4	static
+../Core/Src/main.c:181:5:main	8	static
+../Core/Src/main.c:230:6:SystemClock_Config	72	static
+../Core/Src/main.c:267:13:MX_TIM2_Init	32	static
+../Core/Src/main.c:312:13:MX_GPIO_Init	32	static
+../Core/Src/main.c:349:6:HAL_TIM_PeriodElapsedCallback	16	static
+../Core/Src/main.c:360:6:Error_Handler	4	static,ignoring_inline_asm
